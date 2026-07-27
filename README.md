@@ -14,9 +14,9 @@ Always learning new technologies and turning ideas into impactful digital produc
 - 💻 Building projects using React.js, Next.js, Node.js, Express.js, MongoDB, MySQL, and TypeScript.
 - 🌱 Currently learning advanced concepts in Next.js, AWS, and AI integration.
 - 🚀 Interested in Full Stack, Frontend, Backend, and MERN Stack Development.
-- 📧 Reach me at: vaishnavigupta729@gmail.com@example.com**
+- 📧 Reach me at: vaishnavigupta729@gmail.com .
 - ⚡ Fun fact: I enjoy solving real-world problems by building practical and user-friendly web applications.
-- 
+  
 ### 🛠️ Skills  
 
 #### 💻 Frontend Development  
